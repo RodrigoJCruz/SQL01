@@ -81,3 +81,4 @@ CREATE TABLE tb_pedidos (
 	coluna02 int
 	
 	);
+	
